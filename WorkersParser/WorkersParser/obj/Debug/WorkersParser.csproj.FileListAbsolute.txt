@@ -1,0 +1,1 @@
+C:\GitHubPero\PaidServicesUtilityParsers\WorkersParser\WorkersParser\bin\Debug\WorkersParser.exe.config
