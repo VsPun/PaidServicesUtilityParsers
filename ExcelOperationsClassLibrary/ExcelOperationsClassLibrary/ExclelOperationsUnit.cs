@@ -133,5 +133,11 @@ namespace ExcelOperationsClassLibrary
         {
             return (dataRow[addInformationColumn].ToString() != "") ? dataRow[addInformationColumn].ToString() : " ";
         }
+
+        //возвращает количество строк в прочитанном из файла наборе данных
+        public int GetSize()
+        {
+            return fileData.Tables[0].Rows.Count;
+        }
     }
 }

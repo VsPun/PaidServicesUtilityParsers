@@ -1,8 +1,0 @@
-c:\users\punevskiyvv\documents\visual studio 2015\Projects\DbfOperationsClassLibrary\DbfOperationsClassLibrary\bin\Debug\DbfOperationsClassLibrary.dll.config
-c:\users\punevskiyvv\documents\visual studio 2015\Projects\DbfOperationsClassLibrary\DbfOperationsClassLibrary\bin\Debug\DbfOperationsClassLibrary.dll
-c:\users\punevskiyvv\documents\visual studio 2015\Projects\DbfOperationsClassLibrary\DbfOperationsClassLibrary\bin\Debug\DbfOperationsClassLibrary.pdb
-c:\users\punevskiyvv\documents\visual studio 2015\Projects\DbfOperationsClassLibrary\DbfOperationsClassLibrary\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
-c:\users\punevskiyvv\documents\visual studio 2015\Projects\DbfOperationsClassLibrary\DbfOperationsClassLibrary\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
-c:\users\punevskiyvv\documents\visual studio 2015\Projects\DbfOperationsClassLibrary\DbfOperationsClassLibrary\obj\Debug\DbfOperationsClassLibrary.csprojResolveAssemblyReference.cache
-c:\users\punevskiyvv\documents\visual studio 2015\Projects\DbfOperationsClassLibrary\DbfOperationsClassLibrary\obj\Debug\DbfOperationsClassLibrary.dll
-c:\users\punevskiyvv\documents\visual studio 2015\Projects\DbfOperationsClassLibrary\DbfOperationsClassLibrary\obj\Debug\DbfOperationsClassLibrary.pdb
