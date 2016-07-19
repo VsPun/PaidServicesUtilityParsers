@@ -83,9 +83,11 @@ namespace GdbOperationsClassLibrary
             }
             catch (Exception ex)
             {
+                //случай, когда для услуги нет записи в SERVICE_COST
+                serviceCostId = 0;
                 Logger.PrintLog(ex.Message);
-                transaction.Rollback();
-                throw;
+                //transaction.Rollback();
+                //throw;
             }
 
             return serviceCostId;
